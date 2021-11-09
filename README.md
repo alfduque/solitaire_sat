@@ -7,4 +7,5 @@ Lib PySAT: pip install python-sat[pblib,aiger]
 
 ## TEAM
 Edgardo Cuellar-Sanchez \
-Attilio Discepoli
+Attilio Discepoli \
+Alfred Duquesne
